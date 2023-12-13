@@ -1,0 +1,72 @@
+Clock cycle: 0 || Flit:  Head  || Source: 1 || Destination: 3 || Present Router: Router 1 || Next Router: Router 2 || Type: Input buffer 
+Clock cycle: 1 || Flit:  Head  || Source: 1 || Destination: 3 || Present Router: Router 1 || Next Router: Router 2 || Type: SA 
+Clock cycle: 1 || Flit:  Head  || Source: 4 || Destination: 8 || Present Router: Router 4 || Next Router: Router 5 || Type: Input buffer 
+Clock cycle: 2 || Flit:  Head  || Source: 1 || Destination: 3 || Present Router: Router 1 || Next Router: Router 2 || Type: Crossbar 
+Clock cycle: 2 || Flit:  Head  || Source: 4 || Destination: 8 || Present Router: Router 4 || Next Router: Router 5 || Type: SA 
+Clock cycle: 2 || Flit:  Body  || Source: 1 || Destination: 3 || Present Router: Router 1 || Next Router: Router 2 || Type: Input buffer 
+Clock cycle: 2 || Flit:  Body  || Source: 4 || Destination: 8 || Present Router: Router 4 || Next Router: Router 5 || Type: Input buffer 
+Clock cycle: 3 || Flit:  Head  || Source: 1 || Destination: 3 || Present Router: Router 2 || Next Router: Router 3 || Type: Input buffer 
+Clock cycle: 3 || Flit:  Head  || Source: 4 || Destination: 8 || Present Router: Router 4 || Next Router: Router 5 || Type: Crossbar 
+Clock cycle: 3 || Flit:  Body  || Source: 1 || Destination: 3 || Present Router: Router 1 || Next Router: Router 2 || Type: SA 
+Clock cycle: 3 || Flit:  Body  || Source: 4 || Destination: 8 || Present Router: Router 4 || Next Router: Router 5 || Type: SA 
+Clock cycle: 3 || Flit:  Head  || Source: 5 || Destination: 1 || Present Router: Router 5 || Next Router: Router 6 || Type: Input buffer 
+Clock cycle: 4 || Flit:  Head  || Source: 1 || Destination: 3 || Present Router: Router 2 || Next Router: Router 3 || Type: SA 
+Clock cycle: 4 || Flit:  Head  || Source: 4 || Destination: 8 || Present Router: Router 5 || Next Router: Router 6 || Type: Input buffer 
+Clock cycle: 4 || Flit:  Body  || Source: 1 || Destination: 3 || Present Router: Router 1 || Next Router: Router 2 || Type: Crossbar 
+Clock cycle: 4 || Flit:  Body  || Source: 4 || Destination: 8 || Present Router: Router 4 || Next Router: Router 5 || Type: Crossbar 
+Clock cycle: 4 || Flit:  Head  || Source: 5 || Destination: 1 || Present Router: Router 5 || Next Router: Router 6 || Type: SA 
+Clock cycle: 4 || Flit:  Tail  || Source: 1 || Destination: 3 || Present Router: Router 1 || Next Router: Router 2 || Type: Input buffer 
+Clock cycle: 4 || Flit:  Body  || Source: 5 || Destination: 1 || Present Router: Router 5 || Next Router: Router 6 || Type: Input buffer 
+Clock cycle: 5 || Flit:  Head  || Source: 1 || Destination: 3 || Present Router: Router 2 || Next Router: Router 3 || Type: Crossbar 
+Clock cycle: 5 || Flit:  Head  || Source: 4 || Destination: 8 || Present Router: Router 5 || Next Router: Router 6 || Type: SA 
+Clock cycle: 5 || Flit:  Body  || Source: 1 || Destination: 3 || Present Router: Router 2 || Next Router: Router 3 || Type: Input buffer 
+Clock cycle: 5 || Flit:  Body  || Source: 4 || Destination: 8 || Present Router: Router 5 || Next Router: Router 6 || Type: Input buffer 
+Clock cycle: 5 || Flit:  Head  || Source: 5 || Destination: 1 || Present Router: Router 5 || Next Router: Router 6 || Type: Crossbar 
+Clock cycle: 5 || Flit:  Tail  || Source: 1 || Destination: 3 || Present Router: Router 1 || Next Router: Router 2 || Type: SA 
+Clock cycle: 5 || Flit:  Body  || Source: 5 || Destination: 1 || Present Router: Router 5 || Next Router: Router 6 || Type: SA 
+Clock cycle: 5 || Flit:  Tail  || Source: 4 || Destination: 8 || Present Router: Router 4 || Next Router: Router 5 || Type: Input buffer 
+Clock cycle: 5 || Flit:  Tail  || Source: 5 || Destination: 1 || Present Router: Router 5 || Next Router: Router 6 || Type: Input buffer 
+Clock cycle: 6 || Flit:  Head  || Source: 4 || Destination: 8 || Present Router: Router 5 || Next Router: Router 6 || Type: Crossbar 
+Clock cycle: 6 || Flit:  Body  || Source: 1 || Destination: 3 || Present Router: Router 2 || Next Router: Router 3 || Type: SA 
+Clock cycle: 6 || Flit:  Body  || Source: 4 || Destination: 8 || Present Router: Router 5 || Next Router: Router 6 || Type: SA 
+Clock cycle: 6 || Flit:  Head  || Source: 5 || Destination: 1 || Present Router: Router 6 || Next Router: Router 1 || Type: Input buffer 
+Clock cycle: 6 || Flit:  Tail  || Source: 1 || Destination: 3 || Present Router: Router 1 || Next Router: Router 2 || Type: Crossbar 
+Clock cycle: 6 || Flit:  Body  || Source: 5 || Destination: 1 || Present Router: Router 5 || Next Router: Router 6 || Type: Crossbar 
+Clock cycle: 6 || Flit:  Tail  || Source: 4 || Destination: 8 || Present Router: Router 4 || Next Router: Router 5 || Type: SA 
+Clock cycle: 6 || Flit:  Tail  || Source: 5 || Destination: 1 || Present Router: Router 5 || Next Router: Router 6 || Type: SA 
+Clock cycle: 7 || Flit:  Head  || Source: 4 || Destination: 8 || Present Router: Router 6 || Next Router: Router 7 || Type: Input buffer 
+Clock cycle: 7 || Flit:  Body  || Source: 1 || Destination: 3 || Present Router: Router 2 || Next Router: Router 3 || Type: Crossbar 
+Clock cycle: 7 || Flit:  Body  || Source: 4 || Destination: 8 || Present Router: Router 5 || Next Router: Router 6 || Type: Crossbar 
+Clock cycle: 7 || Flit:  Head  || Source: 5 || Destination: 1 || Present Router: Router 6 || Next Router: Router 1 || Type: SA 
+Clock cycle: 7 || Flit:  Tail  || Source: 1 || Destination: 3 || Present Router: Router 2 || Next Router: Router 3 || Type: Input buffer 
+Clock cycle: 7 || Flit:  Body  || Source: 5 || Destination: 1 || Present Router: Router 6 || Next Router: Router 1 || Type: Input buffer 
+Clock cycle: 7 || Flit:  Tail  || Source: 4 || Destination: 8 || Present Router: Router 4 || Next Router: Router 5 || Type: Crossbar 
+Clock cycle: 7 || Flit:  Tail  || Source: 5 || Destination: 1 || Present Router: Router 5 || Next Router: Router 6 || Type: Crossbar 
+Clock cycle: 8 || Flit:  Head  || Source: 4 || Destination: 8 || Present Router: Router 6 || Next Router: Router 7 || Type: SA 
+Clock cycle: 8 || Flit:  Body  || Source: 4 || Destination: 8 || Present Router: Router 6 || Next Router: Router 7 || Type: Input buffer 
+Clock cycle: 8 || Flit:  Head  || Source: 5 || Destination: 1 || Present Router: Router 6 || Next Router: Router 1 || Type: Crossbar 
+Clock cycle: 8 || Flit:  Tail  || Source: 1 || Destination: 3 || Present Router: Router 2 || Next Router: Router 3 || Type: SA 
+Clock cycle: 8 || Flit:  Body  || Source: 5 || Destination: 1 || Present Router: Router 6 || Next Router: Router 1 || Type: SA 
+Clock cycle: 8 || Flit:  Tail  || Source: 4 || Destination: 8 || Present Router: Router 5 || Next Router: Router 6 || Type: Input buffer 
+Clock cycle: 8 || Flit:  Tail  || Source: 5 || Destination: 1 || Present Router: Router 6 || Next Router: Router 1 || Type: Input buffer 
+Clock cycle: 9 || Flit:  Head  || Source: 4 || Destination: 8 || Present Router: Router 6 || Next Router: Router 7 || Type: Crossbar 
+Clock cycle: 9 || Flit:  Body  || Source: 4 || Destination: 8 || Present Router: Router 6 || Next Router: Router 7 || Type: SA 
+Clock cycle: 9 || Flit:  Tail  || Source: 1 || Destination: 3 || Present Router: Router 2 || Next Router: Router 3 || Type: Crossbar 
+Clock cycle: 9 || Flit:  Body  || Source: 5 || Destination: 1 || Present Router: Router 6 || Next Router: Router 1 || Type: Crossbar 
+Clock cycle: 9 || Flit:  Tail  || Source: 4 || Destination: 8 || Present Router: Router 5 || Next Router: Router 6 || Type: SA 
+Clock cycle: 9 || Flit:  Tail  || Source: 5 || Destination: 1 || Present Router: Router 6 || Next Router: Router 1 || Type: SA 
+Clock cycle: 10 || Flit:  Head  || Source: 4 || Destination: 8 || Present Router: Router 7 || Next Router: Router 8 || Type: Input buffer 
+Clock cycle: 10 || Flit:  Body  || Source: 4 || Destination: 8 || Present Router: Router 6 || Next Router: Router 7 || Type: Crossbar 
+Clock cycle: 10 || Flit:  Tail  || Source: 4 || Destination: 8 || Present Router: Router 5 || Next Router: Router 6 || Type: Crossbar 
+Clock cycle: 10 || Flit:  Tail  || Source: 5 || Destination: 1 || Present Router: Router 6 || Next Router: Router 1 || Type: Crossbar 
+Clock cycle: 11 || Flit:  Head  || Source: 4 || Destination: 8 || Present Router: Router 7 || Next Router: Router 8 || Type: SA 
+Clock cycle: 11 || Flit:  Body  || Source: 4 || Destination: 8 || Present Router: Router 7 || Next Router: Router 8 || Type: Input buffer 
+Clock cycle: 11 || Flit:  Tail  || Source: 4 || Destination: 8 || Present Router: Router 6 || Next Router: Router 7 || Type: Input buffer 
+Clock cycle: 12 || Flit:  Head  || Source: 4 || Destination: 8 || Present Router: Router 7 || Next Router: Router 8 || Type: Crossbar 
+Clock cycle: 12 || Flit:  Body  || Source: 4 || Destination: 8 || Present Router: Router 7 || Next Router: Router 8 || Type: SA 
+Clock cycle: 12 || Flit:  Tail  || Source: 4 || Destination: 8 || Present Router: Router 6 || Next Router: Router 7 || Type: SA 
+Clock cycle: 13 || Flit:  Body  || Source: 4 || Destination: 8 || Present Router: Router 7 || Next Router: Router 8 || Type: Crossbar 
+Clock cycle: 13 || Flit:  Tail  || Source: 4 || Destination: 8 || Present Router: Router 6 || Next Router: Router 7 || Type: Crossbar 
+Clock cycle: 14 || Flit:  Tail  || Source: 4 || Destination: 8 || Present Router: Router 7 || Next Router: Router 8 || Type: Input buffer 
+Clock cycle: 15 || Flit:  Tail  || Source: 4 || Destination: 8 || Present Router: Router 7 || Next Router: Router 8 || Type: SA 
+Clock cycle: 16 || Flit:  Tail  || Source: 4 || Destination: 8 || Present Router: Router 7 || Next Router: Router 8 || Type: Crossbar 
